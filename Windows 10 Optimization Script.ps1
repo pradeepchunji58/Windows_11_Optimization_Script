@@ -1,6 +1,6 @@
 ##########
-# Win10 Optimization Script With Extra GPD Win Tweaks
-# Version: v2.2.1 (2017-12-02)
+# Win10 or 11 Optimization Script With Extra GPD Win Tweaks
+# Version: v2.2.1 (2021-06-21)
 ##########
 
 # As a workaround for disabled script execution, run this command (without #) in an elevated PowerShell windows first and choose "all" if you're asked where to apply this:

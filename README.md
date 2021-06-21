@@ -1,4 +1,5 @@
 # Windows_11_or_Windows_10 Optimization_Script 
+### https://techcommunity.microsoft.com/t5/azure-virtual-desktop/windows-virtual-desktop-optimization-tool-now-available/m-p/1558614
 
 ### What does it optimizes?
 The thing it does is listed here.

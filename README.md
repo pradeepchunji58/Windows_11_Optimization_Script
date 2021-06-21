@@ -1,7 +1,4 @@
-# Windows_11_Optimization_Script
-Windows_10_Optimization_Script
-# Windows 10 optimization script
-
+# Windows_11_or_Windows_10 Optimization_Script 
 
 ### What does it optimizes?
 The thing it does is listed here.
